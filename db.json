@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "text": "Buy cat food",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "text": "Do homework",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "text": "Read a book",
+      "status": "pending"
+    }
+  ]
+}
